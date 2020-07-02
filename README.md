@@ -5,6 +5,8 @@
 *Federal University of Campina Grande, Brazil</font><br>*
 ![Logo](img/splab.png)
 
+<img src="/img/splab.png" alt="SPLab Logo" width="17%" height="17%">
+
 <hr>
 
 * [Q2 2018 - Q3 2018](Q2-Q3-2018). Replication of an empirical study on refactoring detection
