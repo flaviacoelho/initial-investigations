@@ -3,7 +3,7 @@
 
 *This work was supervisioned by Prof. Tiago Massoni and Prof. Everton Alves<br>*
 *Federal University of Campina Grande, Brazil</font><br>*
-![logo](https://github.com/flaviacoelho/racr-sysmap/blob/master/images/splab.png)
+<img src="https://github.com/flaviacoelho/racr-sysmap/blob/master/images/splab.png" width="100" height="40">
 
 <hr>
 
